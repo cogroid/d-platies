@@ -1,0 +1,4 @@
+URL: https://github.com/google/gson/tree/gson-parent-2.8.5
+
+License: Apache-2.0 License [ https://github.com/google/gson/blob/master/LICENSE ]
+
